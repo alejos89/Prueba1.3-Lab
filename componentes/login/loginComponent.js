@@ -5,9 +5,8 @@ export function login(){
 
     login.appendChild(banner2());
 
-    let titulo1=document.createElement("h1");
-    titulo1.textContent="Geeta";
-    login.appendChild(titulo1);
+  
+
 
     return login;
 }

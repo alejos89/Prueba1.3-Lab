@@ -5,8 +5,13 @@
     background-size: cover;
     background-position: top;
     padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem;
+    
 
-    display: grid;
-    grid-template-rows: 1fr auto auto;
-    justify-content: center;
+  
 }
+
+
